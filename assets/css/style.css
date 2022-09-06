@@ -1,6 +1,7 @@
 @charset "UTF-8";
 body {
   background: #3d3f43;
+  overflow-x: hidden;
 }
 
 header {
